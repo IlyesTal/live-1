@@ -1,5 +1,5 @@
-train: ../dataset/train
-val: ../dataset/val
+train: /content/dataset/images/train
+val: /content/dataset/images/val
 
 nc: 2
 names: ['Ball', 'Player']
