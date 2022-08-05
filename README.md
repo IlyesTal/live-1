@@ -4,7 +4,6 @@
    <br>
    <a href="https://colab.research.google.com/drive/1WmN4A1LWh25_ez6T23jGKXaLJfT08j2F?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
    <a href="https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-   <a href="https://discord.gg/dr2MDR7cp9"><img src="https://simpleicons.org/icons/discord.svg" alt="Join us on Discord"></a>
 </div>
 
 
